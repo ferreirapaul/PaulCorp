@@ -1,0 +1,154 @@
+{
+    "result": 1,
+    "movie": {
+        "id": 391313,
+        "imdbID": "tt2267968",
+        "tmdbID": "140300",
+        "imdbRating": 71,
+        "imdbVoteCount": 187122,
+        "backdropPath": "/uT5G4fA7jKxlJNfwYPMm353f5AI.jpg",
+        "originalTitle": "Kung Fu Panda 3",
+        "genres": [
+            16,
+            28,
+            12
+        ],
+        "countries": [
+            "CN",
+            "US"
+        ],
+        "year": 2016,
+        "runtime": 95,
+        "cast": [
+            "Jack Black",
+            "Bryan Cranston",
+            "Dustin Hoffman",
+            "Angelina Jolie",
+            "J.K. Simmons",
+            "Jackie Chan",
+            "Seth Rogen"
+        ],
+        "significants": [
+            "Jennifer Yuh Nelson",
+            "Alessandro Carloni"
+        ],
+        "title": "Kung Fu Panda 3",
+        "overview": "While Po and his father are visiting a secret panda village, an evil spirit threatens all of China, forcing Po to form a ragtag army to fight back.",
+        "tagline": "Grab destiny by the rice dumplings.",
+        "video": "yqN7nHM1YTA",
+        "posterPath": "/oajNi4Su39WAByHI6EONu8G8HYn.jpg",
+        "age": 4,
+        "streamingInfo": {
+            "netflix": {},
+            "now": {
+                "it": {
+                    "link": "https://www.nowtv.it/watch/kung-fu-panda-3-2016/R_164612_HD",
+                    "added": 1710042064,
+                    "leaving": 1735685999
+                }
+            },
+            "prime": {
+                "ae": {
+                    "link": "https://www.primevideo.com/detail/0M6WTRLQFJE6GQ9X91SADA3WSA/",
+                    "added": 1711483820,
+                    "leaving": 0
+                },
+                "at": {
+                    "link": "https://www.amazon.de/gp/video/detail/0OSAJRDXLA9RUOECVJCFQGEKMJ/",
+                    "added": 1710918045,
+                    "leaving": 0
+                },
+                "ca": {
+                    "link": "https://www.primevideo.com/detail/0M6WTRLQFJE6GQ9X91SADA3WSA/?tag=movieofthen0f-20",
+                    "added": 1711225554,
+                    "leaving": 0
+                },
+                "ch": {
+                    "link": "https://www.primevideo.com/detail/amzn1.dv.gti.76d97712-5d1a-4f56-8774-4316747806ba/",
+                    "added": 1711838670,
+                    "leaving": 0
+                },
+                "de": {
+                    "link": "https://www.amazon.de/gp/video/detail/0OSAJRDXLA9RUOECVJCFQGEKMJ/",
+                    "added": 1711166660,
+                    "leaving": 0
+                },
+                "dk": {
+                    "link": "https://www.primevideo.com/detail/amzn1.dv.gti.76d97712-5d1a-4f56-8774-4316747806ba/",
+                    "added": 1710192281,
+                    "leaving": 0
+                },
+                "fi": {
+                    "link": "https://www.primevideo.com/detail/0M6WTRLQFJE6GQ9X91SADA3WSA/",
+                    "added": 1711253962,
+                    "leaving": 0
+                },
+                "hk": {
+                    "link": "https://www.primevideo.com/detail/0M6WTRLQFJE6GQ9X91SADA3WSA/",
+                    "added": 1711300122,
+                    "leaving": 0
+                },
+                "id": {
+                    "link": "https://www.primevideo.com/detail/amzn1.dv.gti.76d97712-5d1a-4f56-8774-4316747806ba/",
+                    "added": 1710046180,
+                    "leaving": 0
+                },
+                "il": {
+                    "link": "https://www.primevideo.com/detail/0M6WTRLQFJE6GQ9X91SADA3WSA/",
+                    "added": 1711081429,
+                    "leaving": 0
+                },
+                "it": {
+                    "link": "https://www.primevideo.com/detail/0M6WTRLQFJE6GQ9X91SADA3WSA/",
+                    "added": 1710074602,
+                    "leaving": 0
+                },
+                "my": {
+                    "link": "https://www.primevideo.com/detail/0M6WTRLQFJE6GQ9X91SADA3WSA/",
+                    "added": 1711827687,
+                    "leaving": 0
+                },
+                "no": {
+                    "link": "https://www.primevideo.com/detail/0M6WTRLQFJE6GQ9X91SADA3WSA/",
+                    "added": 1711027446,
+                    "leaving": 0
+                },
+                "nz": {
+                    "link": "https://www.primevideo.com/detail/amzn1.dv.gti.76d97712-5d1a-4f56-8774-4316747806ba/",
+                    "added": 1710015703,
+                    "leaving": 0
+                },
+                "pl": {
+                    "link": "https://www.primevideo.com/detail/0M6WTRLQFJE6GQ9X91SADA3WSA/",
+                    "added": 1711226814,
+                    "leaving": 0
+                },
+                "pt": {
+                    "link": "https://www.primevideo.com/detail/amzn1.dv.gti.76d97712-5d1a-4f56-8774-4316747806ba/",
+                    "added": 1711246104,
+                    "leaving": 0
+                },
+                "se": {
+                    "link": "https://www.primevideo.com/detail/amzn1.dv.gti.76d97712-5d1a-4f56-8774-4316747806ba/",
+                    "added": 1710998617,
+                    "leaving": 0
+                },
+                "sg": {
+                    "link": "https://www.primevideo.com/detail/0M6WTRLQFJE6GQ9X91SADA3WSA/",
+                    "added": 1711268491,
+                    "leaving": 0
+                },
+                "th": {
+                    "link": "https://www.primevideo.com/detail/0M6WTRLQFJE6GQ9X91SADA3WSA/",
+                    "added": 1710066604,
+                    "leaving": 0
+                },
+                "tr": {
+                    "link": "https://www.primevideo.com/detail/amzn1.dv.gti.76d97712-5d1a-4f56-8774-4316747806ba/",
+                    "added": 1710250543,
+                    "leaving": 0
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,2615 @@
+{
+    "results": [
+        {
+            "id": 119881,
+            "imdbID": "tt0036204",
+            "tmdbID": "150116",
+            "imdbRating": 63,
+            "imdbVoteCount": 327,
+            "backdropPath": "/3gfobPKBPNUAtNsQ27gMzWr4yTY.jpg",
+            "originalTitle": "Nine Men",
+            "genres": [
+                18,
+                10752
+            ],
+            "countries": [],
+            "year": 1943,
+            "runtime": 68,
+            "cast": [
+                "Gordon Jackson",
+                "Grant Sutherland",
+                "Bill Blewitt",
+                "Eric Micklewood",
+                "John Varley",
+                "Jack Horsman",
+                "Richard Wilkinson"
+            ],
+            "significants": [
+                "Harry Watt"
+            ],
+            "title": "Nine Men",
+            "overview": "The Nine men of the title are a British WWII Army patrol stuck in a desert fort during the African campaign. The Men must defend the fort against the Italian and German troops until they can be relieved.",
+            "tagline": "",
+            "video": "",
+            "posterPath": "/kuYNe0H9o2mIWPlsbZec93vaSo5.jpg",
+            "age": 8,
+            "streamingInfo": {
+                "netflix": {
+                    "gb": {
+                        "link": "https://www.netflix.com/title/81409546/",
+                        "added": 1670899319,
+                        "leaving": 0
+                    },
+                    "my": {
+                        "link": "https://www.netflix.com/title/81409546/",
+                        "added": 1680636698,
+                        "leaving": 0
+                    },
+                    "pl": {
+                        "link": "https://www.netflix.com/title/81409546/",
+                        "added": 1686199394,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/81409546/",
+                        "added": 1678227003,
+                        "leaving": 0
+                    },
+                    "za": {
+                        "link": "https://www.netflix.com/title/81409546/",
+                        "added": 1685667528,
+                        "leaving": 0
+                    }
+                }
+            }
+        },
+        {
+            "id": 5993,
+            "imdbID": "tt0047673",
+            "tmdbID": "13368",
+            "imdbRating": 76,
+            "imdbVoteCount": 51077,
+            "backdropPath": "/97eLP7iJTCE03LhwtXfXRcLbg5H.jpg",
+            "originalTitle": "White Christmas",
+            "genres": [
+                35,
+                4,
+                10749
+            ],
+            "countries": [
+                "US"
+            ],
+            "year": 1954,
+            "runtime": 120,
+            "cast": [
+                "Bing Crosby",
+                "Danny Kaye",
+                "Rosemary Clooney",
+                "Vera-Ellen",
+                "Dean Jagger",
+                "Mary Wickes",
+                "John Brascia"
+            ],
+            "significants": [
+                "Michael Curtiz"
+            ],
+            "title": "White Christmas",
+            "overview": "Two talented song-and-dance men team up after the war to become one of the hottest acts in show business. In time they befriend and become romantically involved with the beautiful Haynes sisters who comprise a sister act.",
+            "tagline": "THE MOST FABULOUS MUSIC-AND-MIRTH SHOW IN MOTION PICTURE HISTORY!",
+            "video": "3n3-UtakD3I",
+            "posterPath": "/A5kBQsHKbIptxJyELEpHQJROCRj.jpg",
+            "age": 2,
+            "streamingInfo": {
+                "iplayer": {},
+                "netflix": {
+                    "us": {
+                        "link": "https://www.netflix.com/title/60003082/",
+                        "added": 1681717034,
+                        "leaving": 0
+                    }
+                },
+                "now": {},
+                "prime": {},
+                "stan": {}
+            }
+        },
+        {
+            "id": 31610,
+            "imdbID": "tt0047119",
+            "tmdbID": "18174",
+            "imdbRating": 75,
+            "imdbVoteCount": 5234,
+            "backdropPath": "/6icWUq7j3xwRpgXSpUm9sBcXI9q.jpg",
+            "originalTitle": "An Inspector Calls",
+            "genres": [
+                80,
+                18,
+                9648
+            ],
+            "countries": [
+                "GB"
+            ],
+            "year": 1954,
+            "runtime": 80,
+            "cast": [
+                "Alastair Sim",
+                "Olga Lindo",
+                "Arthur Young",
+                "Brian Worth",
+                "Eileen Moore",
+                "Bryan Forbes",
+                "Jane Wenham"
+            ],
+            "significants": [
+                "Guy Hamilton"
+            ],
+            "title": "An Inspector Calls",
+            "overview": "An upper-crust family dinner is interrupted by a police inspector who brings news that a girl known to everyone present has died in suspicious circumstances. It seems that any or all of them could have had a hand in her death. But who is the mysterious Inspector and what can he want of them?",
+            "tagline": "Is he real... or the creature of conscience?",
+            "video": "",
+            "posterPath": "/wiUgdzDTW6MyhDExUAREqMEzUVV.jpg",
+            "age": 7,
+            "streamingInfo": {
+                "netflix": {
+                    "mk": {
+                        "link": "https://www.netflix.com/title/81409301/",
+                        "added": 1682827315,
+                        "leaving": 0
+                    },
+                    "nz": {
+                        "link": "https://www.netflix.com/title/81409301/",
+                        "added": 1681418878,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/81409301/",
+                        "added": 1678225270,
+                        "leaving": 0
+                    },
+                    "za": {
+                        "link": "https://www.netflix.com/title/81409301/",
+                        "added": 1685667106,
+                        "leaving": 0
+                    }
+                },
+                "prime": {}
+            }
+        },
+        {
+            "id": 48742,
+            "imdbID": "tt0049501",
+            "tmdbID": "77418",
+            "imdbRating": 60,
+            "imdbVoteCount": 601,
+            "backdropPath": "/c9woVMyzX8Po9ZdAvwvSU2Tu0OI.jpg",
+            "originalTitle": "Michel Strogoff",
+            "genres": [
+                12,
+                18,
+                36
+            ],
+            "countries": [
+                "FR",
+                "IT",
+                "YU"
+            ],
+            "year": 1956,
+            "runtime": 109,
+            "cast": [
+                "Curd Jürgens",
+                "Geneviève Page",
+                "Jacques Dacqmine",
+                "Sylva Koscina",
+                "Gérard Buhr",
+                "Louis Arbessier",
+                "Fernand Fabre"
+            ],
+            "significants": [
+                "Carmine Gallone"
+            ],
+            "title": "Michael Strogoff",
+            "overview": "When Emir Feofar Khan, leader of the Tartar hordes, takes up arms and invades the steppes of Eastern Siberia, Czar Alexander II of Russia entrusts the brave officer Michael Strogoff with a dangerous mission.",
+            "tagline": "He fought single-handed against the terror of Tartar hordes!",
+            "video": "",
+            "posterPath": "/88PdFuBXAH9DtqpLigL3bPfOleg.jpg",
+            "age": 6,
+            "streamingInfo": {
+                "netflix": {
+                    "gb": {
+                        "link": "https://www.netflix.com/title/80010543/",
+                        "added": 1670904591,
+                        "leaving": 0
+                    },
+                    "it": {
+                        "link": "https://www.netflix.com/title/80010543/",
+                        "added": 1678488532,
+                        "leaving": 0
+                    },
+                    "nz": {
+                        "link": "https://www.netflix.com/title/80010543/",
+                        "added": 1681425777,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/80010543/",
+                        "added": 1678228865,
+                        "leaving": 0
+                    }
+                },
+                "prime": {}
+            }
+        },
+        {
+            "id": 5964,
+            "imdbID": "tt0054953",
+            "tmdbID": "10911",
+            "imdbRating": 75,
+            "imdbVoteCount": 55266,
+            "backdropPath": "/hgFyxEtHCMDJQc2TdXSl3FGIs2.jpg",
+            "originalTitle": "The Guns of Navarone",
+            "genres": [
+                28,
+                12
+            ],
+            "countries": [
+                "GB",
+                "US"
+            ],
+            "year": 1961,
+            "runtime": 158,
+            "cast": [
+                "Gregory Peck",
+                "David Niven",
+                "Anthony Quinn",
+                "Stanley Baker",
+                "Anthony Quayle",
+                "James Darren",
+                "Irene Papas"
+            ],
+            "significants": [
+                "J. Lee Thompson"
+            ],
+            "title": "The Guns of Navarone",
+            "overview": "A team of allied saboteurs are assigned an impossible mission: infiltrate an impregnable Nazi-held island and destroy the two enormous long-range field guns that prevent the rescue of 2,000 trapped British soldiers.",
+            "tagline": "The Greatest High Adventure Ever Filmed!",
+            "video": "0ORnL9WmOEo",
+            "posterPath": "/j6VSFnm20GlkUi8yb7hM5Qfc1fA.jpg",
+            "age": 7,
+            "streamingInfo": {
+                "all4": {},
+                "netflix": {
+                    "az": {
+                        "link": "https://www.netflix.com/title/60000061/",
+                        "added": 1707114758,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/60000061/",
+                        "added": 1707644733,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/60000061/",
+                        "added": 1706696469,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/60000061/",
+                        "added": 1709333456,
+                        "leaving": 0
+                    }
+                },
+                "now": {},
+                "prime": {}
+            }
+        },
+        {
+            "id": 75246,
+            "imdbID": "tt0056243",
+            "tmdbID": "426976",
+            "imdbRating": 62,
+            "imdbVoteCount": 261,
+            "backdropPath": "",
+            "originalTitle": "Mix Me a Person",
+            "genres": [
+                80,
+                9648
+            ],
+            "countries": [
+                "GB"
+            ],
+            "year": 1962,
+            "runtime": 116,
+            "cast": [
+                "Anne Baxter",
+                "Donald Sinden",
+                "Adam Faith",
+                "Walter Brown",
+                "Jack MacGowran",
+                "Topsy Jane",
+                "Carole Ann Ford"
+            ],
+            "significants": [
+                "Leslie Norman"
+            ],
+            "title": "Mix Me a Person",
+            "overview": "Eighteen-year-old Harry Jukes is literally holding a smoking gun in his hand.  His lawyer thinks he did it, but his psychiatrist disagrees -- and sets out to prove she is right.",
+            "tagline": "The dramatic story of one girl's fight to free a youth charged with murder!",
+            "video": "",
+            "posterPath": "/7qVluHy17TjEmUVkh5buplFzDZw.jpg",
+            "age": 13,
+            "streamingInfo": {
+                "netflix": {
+                    "bg": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709472386,
+                        "leaving": 0
+                    },
+                    "cy": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709292444,
+                        "leaving": 0
+                    },
+                    "cz": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709328097,
+                        "leaving": 0
+                    },
+                    "ee": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709142706,
+                        "leaving": 0
+                    },
+                    "es": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709195917,
+                        "leaving": 0
+                    },
+                    "fi": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709209865,
+                        "leaving": 0
+                    },
+                    "gr": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1710739255,
+                        "leaving": 0
+                    },
+                    "hr": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709354104,
+                        "leaving": 0
+                    },
+                    "hu": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709211762,
+                        "leaving": 0
+                    },
+                    "is": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709274186,
+                        "leaving": 0
+                    },
+                    "it": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709287776,
+                        "leaving": 0
+                    },
+                    "lt": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709240082,
+                        "leaving": 0
+                    },
+                    "my": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1680635205,
+                        "leaving": 0
+                    },
+                    "nl": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709253907,
+                        "leaving": 0
+                    },
+                    "no": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709342359,
+                        "leaving": 0
+                    },
+                    "nz": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1681414712,
+                        "leaving": 0
+                    },
+                    "pl": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1686199310,
+                        "leaving": 0
+                    },
+                    "pt": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709557135,
+                        "leaving": 0
+                    },
+                    "ro": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709171142,
+                        "leaving": 0
+                    },
+                    "se": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709334478,
+                        "leaving": 0
+                    },
+                    "si": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1709305904,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1678220460,
+                        "leaving": 0
+                    },
+                    "za": {
+                        "link": "https://www.netflix.com/title/81667272/",
+                        "added": 1685663290,
+                        "leaving": 0
+                    }
+                },
+                "prime": {}
+            }
+        },
+        {
+            "id": 116223,
+            "imdbID": "tt0056379",
+            "tmdbID": "316821",
+            "imdbRating": 68,
+            "imdbVoteCount": 348,
+            "backdropPath": "",
+            "originalTitle": "प्रोफ़ेसर",
+            "genres": [
+                35,
+                18,
+                4
+            ],
+            "countries": [
+                "IN"
+            ],
+            "year": 1962,
+            "runtime": 163,
+            "cast": [
+                "Shammi Kapoor",
+                "Kalpana Mohan",
+                "Lalita Pawar",
+                "Parveen Choudhary",
+                "Tun Tun",
+                "Iftekhar",
+                "Pratima Devi"
+            ],
+            "significants": [
+                "Lekh Tandon"
+            ],
+            "title": "Professor",
+            "overview": "Sita devi is a very strict aunt for a number of young ladies, and does not allow them to fraternize with males. Along comes Pritam disguised as an elderly Professor Khanna to break every possible rule of the aunt",
+            "tagline": "",
+            "video": "",
+            "posterPath": "/9XxhJq59ITBDwSonlnKOKpaG4Ri.jpg",
+            "age": 7,
+            "streamingInfo": {
+                "netflix": {
+                    "ae": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709197371,
+                        "leaving": 0
+                    },
+                    "ar": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709532043,
+                        "leaving": 0
+                    },
+                    "au": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709253166,
+                        "leaving": 0
+                    },
+                    "az": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709153733,
+                        "leaving": 0
+                    },
+                    "br": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709257625,
+                        "leaving": 0
+                    },
+                    "ca": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709312397,
+                        "leaving": 0
+                    },
+                    "cl": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709311116,
+                        "leaving": 0
+                    },
+                    "co": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709292745,
+                        "leaving": 0
+                    },
+                    "ec": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709372649,
+                        "leaving": 0
+                    },
+                    "hk": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709484832,
+                        "leaving": 0
+                    },
+                    "id": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709335577,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709301542,
+                        "leaving": 0
+                    },
+                    "in": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709171562,
+                        "leaving": 0
+                    },
+                    "jp": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709286740,
+                        "leaving": 0
+                    },
+                    "md": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709294574,
+                        "leaving": 0
+                    },
+                    "mk": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709167945,
+                        "leaving": 0
+                    },
+                    "mx": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709312520,
+                        "leaving": 0
+                    },
+                    "my": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709339941,
+                        "leaving": 0
+                    },
+                    "nz": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709285560,
+                        "leaving": 0
+                    },
+                    "pa": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709190289,
+                        "leaving": 0
+                    },
+                    "pe": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709347162,
+                        "leaving": 0
+                    },
+                    "ph": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709137321,
+                        "leaving": 0
+                    },
+                    "rs": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709135013,
+                        "leaving": 0
+                    },
+                    "sg": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709159019,
+                        "leaving": 0
+                    },
+                    "th": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709169354,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709255513,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709248726,
+                        "leaving": 0
+                    },
+                    "vn": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709699302,
+                        "leaving": 0
+                    },
+                    "za": {
+                        "link": "https://www.netflix.com/title/20257393/",
+                        "added": 1709120422,
+                        "leaving": 0
+                    }
+                }
+            }
+        },
+        {
+            "id": 115253,
+            "imdbID": "tt0060104",
+            "tmdbID": "205077",
+            "imdbRating": 67,
+            "imdbVoteCount": 275,
+            "backdropPath": "/dnOGnqVmdhmIngCwVrbr1xxbYFl.jpg",
+            "originalTitle": "आम्रपाली",
+            "genres": [
+                14,
+                36
+            ],
+            "countries": [
+                "IN"
+            ],
+            "year": 1966,
+            "runtime": 120,
+            "cast": [
+                "Vyjayanthimala",
+                "Sunil Dutt",
+                "Premnath Malhotra",
+                "Bipin Gupta",
+                "Gajanan Jagirdar",
+                "K.N. Singh",
+                "Ruby Myers"
+            ],
+            "significants": [
+                "Lekh Tandon"
+            ],
+            "title": "Amrapali",
+            "overview": "After a failed conquest, Emperor Ajaatshatru pretends to be a soldier in the enemy's army to weaken them from the inside. However, he falls in love with Amrapali by faking his identity.",
+            "tagline": "",
+            "video": "",
+            "posterPath": "/d39lmb3KtzN7rF4YvVoW39vcrIt.jpg",
+            "age": 4,
+            "streamingInfo": {
+                "netflix": {
+                    "ae": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709188203,
+                        "leaving": 0
+                    },
+                    "ar": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709139453,
+                        "leaving": 0
+                    },
+                    "au": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709288886,
+                        "leaving": 0
+                    },
+                    "az": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709289959,
+                        "leaving": 0
+                    },
+                    "br": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709288715,
+                        "leaving": 0
+                    },
+                    "ca": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709213818,
+                        "leaving": 0
+                    },
+                    "cl": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709302777,
+                        "leaving": 0
+                    },
+                    "co": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709188501,
+                        "leaving": 0
+                    },
+                    "ec": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709169100,
+                        "leaving": 0
+                    },
+                    "hk": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709363086,
+                        "leaving": 0
+                    },
+                    "id": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709223965,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709261462,
+                        "leaving": 0
+                    },
+                    "in": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709191704,
+                        "leaving": 0
+                    },
+                    "jp": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709267141,
+                        "leaving": 0
+                    },
+                    "md": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709165066,
+                        "leaving": 0
+                    },
+                    "mk": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709192729,
+                        "leaving": 0
+                    },
+                    "mx": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709190143,
+                        "leaving": 0
+                    },
+                    "my": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709151687,
+                        "leaving": 0
+                    },
+                    "nz": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709308600,
+                        "leaving": 0
+                    },
+                    "pa": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709198106,
+                        "leaving": 0
+                    },
+                    "pe": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709316301,
+                        "leaving": 0
+                    },
+                    "ph": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709333996,
+                        "leaving": 0
+                    },
+                    "rs": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709307502,
+                        "leaving": 0
+                    },
+                    "sg": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709306450,
+                        "leaving": 0
+                    },
+                    "th": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709170557,
+                        "leaving": 0
+                    },
+                    "tr": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709298938,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709124897,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709201222,
+                        "leaving": 0
+                    },
+                    "vn": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709913104,
+                        "leaving": 0
+                    },
+                    "za": {
+                        "link": "https://www.netflix.com/title/80158390/",
+                        "added": 1709321987,
+                        "leaving": 0
+                    }
+                }
+            }
+        },
+        {
+            "id": 348307,
+            "imdbID": "tt0060552",
+            "tmdbID": "356417",
+            "imdbRating": 65,
+            "imdbVoteCount": 48,
+            "backdropPath": "/sk4Wk7M3CTR8UwhQoqPHTcT0Cpn.jpg",
+            "originalTitle": "Jag",
+            "genres": [
+                18
+            ],
+            "countries": [
+                "SE"
+            ],
+            "year": 1966,
+            "runtime": 83,
+            "cast": [
+                "Christer Banck",
+                "Tove Waltenburg",
+                "Agneta Anjou-Schrammel",
+                "Ove Tjernberg",
+                "Börje Nyberg",
+                "Margaretha Bergström",
+                "Anders Näslund"
+            ],
+            "significants": [
+                "Peter Kylberg"
+            ],
+            "title": "I",
+            "overview": "A young man is seeking an identity.",
+            "tagline": "",
+            "video": "",
+            "posterPath": "/yj1nWf1up8lB1kn18KfBOigDd6S.jpg",
+            "age": 10,
+            "streamingInfo": {
+                "netflix": {
+                    "ae": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1680691966,
+                        "leaving": 0
+                    },
+                    "at": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709176401,
+                        "leaving": 0
+                    },
+                    "be": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709309384,
+                        "leaving": 0
+                    },
+                    "bg": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709126413,
+                        "leaving": 0
+                    },
+                    "ch": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709252199,
+                        "leaving": 0
+                    },
+                    "co": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1690093757,
+                        "leaving": 0
+                    },
+                    "cy": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709323404,
+                        "leaving": 0
+                    },
+                    "cz": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709343468,
+                        "leaving": 0
+                    },
+                    "dk": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1677246832,
+                        "leaving": 0
+                    },
+                    "ee": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709173312,
+                        "leaving": 0
+                    },
+                    "es": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709250457,
+                        "leaving": 0
+                    },
+                    "fi": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1686206706,
+                        "leaving": 0
+                    },
+                    "fr": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709341223,
+                        "leaving": 0
+                    },
+                    "gb": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709465584,
+                        "leaving": 0
+                    },
+                    "gr": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709281903,
+                        "leaving": 0
+                    },
+                    "hr": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709186104,
+                        "leaving": 0
+                    },
+                    "hu": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709253746,
+                        "leaving": 0
+                    },
+                    "ie": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709246069,
+                        "leaving": 0
+                    },
+                    "is": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709351771,
+                        "leaving": 0
+                    },
+                    "it": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1710135310,
+                        "leaving": 0
+                    },
+                    "lt": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709169053,
+                        "leaving": 0
+                    },
+                    "mk": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1680385598,
+                        "leaving": 0
+                    },
+                    "my": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1680645641,
+                        "leaving": 0
+                    },
+                    "nl": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709265372,
+                        "leaving": 0
+                    },
+                    "nz": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1681426923,
+                        "leaving": 0
+                    },
+                    "pl": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709284879,
+                        "leaving": 0
+                    },
+                    "pt": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709188924,
+                        "leaving": 0
+                    },
+                    "ro": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709186854,
+                        "leaving": 0
+                    },
+                    "si": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1709149999,
+                        "leaving": 0
+                    },
+                    "tr": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1675918566,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1678225691,
+                        "leaving": 0
+                    },
+                    "za": {
+                        "link": "https://www.netflix.com/title/81382114/",
+                        "added": 1685664903,
+                        "leaving": 0
+                    }
+                }
+            }
+        },
+        {
+            "id": 8932,
+            "imdbID": "tt0067588",
+            "tmdbID": "15393",
+            "imdbRating": 69,
+            "imdbVoteCount": 31771,
+            "backdropPath": "/t7IeeXInCfUj8jz7coobeWjUX1e.jpg",
+            "originalTitle": "Play Misty for Me",
+            "genres": [
+                18,
+                53
+            ],
+            "countries": [
+                "US"
+            ],
+            "year": 1971,
+            "runtime": 102,
+            "cast": [
+                "Clint Eastwood",
+                "Jessica Walter",
+                "Donna Mills",
+                "John Larch",
+                "Jack Ging",
+                "Irene Hervey",
+                "James McEachin"
+            ],
+            "significants": [
+                "Clint Eastwood"
+            ],
+            "title": "Play Misty for Me",
+            "overview": "A brief fling between a male disc jockey and an obsessed female fan takes a frightening, and perhaps even deadly turn when another woman enters the picture.",
+            "tagline": "The scream you hear may be your own!",
+            "video": "6Y9J7QjN1gg",
+            "posterPath": "/eQnmElivu2yTlNbmvtaXgg3wnW8.jpg",
+            "age": 16,
+            "streamingInfo": {
+                "apple": {},
+                "netflix": {
+                    "az": {
+                        "link": "https://www.netflix.com/title/60021085/",
+                        "added": 1707114381,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/60021085/",
+                        "added": 1707646032,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/60021085/",
+                        "added": 1706765085,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/60021085/",
+                        "added": 1709129477,
+                        "leaving": 0
+                    }
+                },
+                "now": {},
+                "prime": {}
+            }
+        },
+        {
+            "id": 113564,
+            "imdbID": "tt0367695",
+            "tmdbID": "452080",
+            "imdbRating": 60,
+            "imdbVoteCount": 88,
+            "backdropPath": "",
+            "originalTitle": "Elaan",
+            "genres": [
+                28,
+                18,
+                4
+            ],
+            "countries": [
+                "IN"
+            ],
+            "year": 1971,
+            "runtime": 142,
+            "cast": [
+                "Vinod Mehra",
+                "Rekha",
+                "Vinod Khanna",
+                "Helen",
+                "Madan Puri"
+            ],
+            "significants": [
+                "K. Ramanlal"
+            ],
+            "title": "Elaan",
+            "overview": "Naresh Kumar Saxena lives with his widowed mom and sister, Seema. He works as a freelance photographer and journalist. One day he meets with Mala Mehta and her dad, who is the Editor of a Newspaper. Mr. Mehta hires Naresh and assigns him to go to a remote island to investigate and expose some illegal activities there. Naresh goes there in the company of his friend, Shyam. Unfortunately, Naresh is caught by the island guards and lodged in a cell along with two others, one a scientist and Ram Singh, a hoodlum. The scientist confides in Naresh that he has invented an atomic ring that when inserted in someone's mouth will turn that person invisible, and subsequently passes away. Naresh puts the ring in his mouth, takes off his clothes, turns invisible and escapes.",
+            "tagline": "",
+            "video": "",
+            "posterPath": "/tLCJjtq5U5hXP2ghPTe7SvI8zDQ.jpg",
+            "age": 0,
+            "streamingInfo": {
+                "netflix": {
+                    "ae": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709372154,
+                        "leaving": 0
+                    },
+                    "ar": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709326633,
+                        "leaving": 0
+                    },
+                    "au": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709289095,
+                        "leaving": 0
+                    },
+                    "az": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709343293,
+                        "leaving": 0
+                    },
+                    "br": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709239611,
+                        "leaving": 0
+                    },
+                    "ca": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709341813,
+                        "leaving": 0
+                    },
+                    "cl": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709275580,
+                        "leaving": 0
+                    },
+                    "co": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709887359,
+                        "leaving": 0
+                    },
+                    "ec": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709187933,
+                        "leaving": 0
+                    },
+                    "hk": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709295619,
+                        "leaving": 0
+                    },
+                    "id": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709672579,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709302963,
+                        "leaving": 0
+                    },
+                    "in": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709195279,
+                        "leaving": 0
+                    },
+                    "jp": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709142598,
+                        "leaving": 0
+                    },
+                    "md": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709366916,
+                        "leaving": 0
+                    },
+                    "mk": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709183244,
+                        "leaving": 0
+                    },
+                    "mx": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709363793,
+                        "leaving": 0
+                    },
+                    "my": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709304822,
+                        "leaving": 0
+                    },
+                    "nz": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709236919,
+                        "leaving": 0
+                    },
+                    "pa": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709333787,
+                        "leaving": 0
+                    },
+                    "pe": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709336217,
+                        "leaving": 0
+                    },
+                    "ph": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709324828,
+                        "leaving": 0
+                    },
+                    "rs": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709247938,
+                        "leaving": 0
+                    },
+                    "sg": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709183555,
+                        "leaving": 0
+                    },
+                    "th": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709283997,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709334667,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709138786,
+                        "leaving": 0
+                    },
+                    "vn": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1710083476,
+                        "leaving": 0
+                    },
+                    "za": {
+                        "link": "https://www.netflix.com/title/80158482/",
+                        "added": 1709145052,
+                        "leaving": 0
+                    }
+                }
+            }
+        },
+        {
+            "id": 113702,
+            "imdbID": "tt0237395",
+            "tmdbID": "464315",
+            "imdbRating": 61,
+            "imdbVoteCount": 162,
+            "backdropPath": "/dTMHQn7gu5d0BSjPiEOI8Bh9BYm.jpg",
+            "originalTitle": "Lal Patthar",
+            "genres": [
+                18
+            ],
+            "countries": [
+                "IN"
+            ],
+            "year": 1971,
+            "runtime": 153,
+            "cast": [
+                "Raaj Kumar",
+                "Hema Malini",
+                "Rakhee Gulzar",
+                "Vinod Mehra",
+                "Kanwarjeet Paintal",
+                "Asit Sen",
+                "Dulari"
+            ],
+            "significants": [
+                "Sushil Majumdar"
+            ],
+            "title": "Lal Patthar",
+            "overview": "Raja Kumar Bahadur alias Gyan Shankar Rai has been a total abstainer all his life, never touching a drop of alcohol, and keeping away from women and all known vices all his life. Then one day he sees a young woman named Saudamani, and instantly falls in love with her. He finds out about her background, and virtually buys her, and brings her to his palatial home. This is when he takes to drinking, and wooing her, and renaming her Madhuri, but refrains from marrying her. Years later, he sees another beautiful woman, about half his age, named Sumita, meets with her parents, pays off their debts, and marries her in the bargain.",
+            "tagline": "",
+            "video": "",
+            "posterPath": "/adFlUKv9V3eVFsH4JHKhn6WbEfg.jpg",
+            "age": 0,
+            "streamingInfo": {
+                "netflix": {
+                    "ae": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709220342,
+                        "leaving": 0
+                    },
+                    "ar": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709366648,
+                        "leaving": 0
+                    },
+                    "au": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709358075,
+                        "leaving": 0
+                    },
+                    "az": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709140273,
+                        "leaving": 0
+                    },
+                    "br": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709304096,
+                        "leaving": 0
+                    },
+                    "ca": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709365508,
+                        "leaving": 0
+                    },
+                    "cl": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709507627,
+                        "leaving": 0
+                    },
+                    "co": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709285438,
+                        "leaving": 0
+                    },
+                    "ec": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709204886,
+                        "leaving": 0
+                    },
+                    "hk": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709374486,
+                        "leaving": 0
+                    },
+                    "id": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709293372,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709292807,
+                        "leaving": 0
+                    },
+                    "in": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709229290,
+                        "leaving": 0
+                    },
+                    "jp": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709295640,
+                        "leaving": 0
+                    },
+                    "md": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709068682,
+                        "leaving": 0
+                    },
+                    "mk": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709173878,
+                        "leaving": 0
+                    },
+                    "mx": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709356884,
+                        "leaving": 0
+                    },
+                    "my": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709276313,
+                        "leaving": 0
+                    },
+                    "nz": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709273597,
+                        "leaving": 0
+                    },
+                    "pa": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709340434,
+                        "leaving": 0
+                    },
+                    "pe": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709109483,
+                        "leaving": 0
+                    },
+                    "ph": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709342828,
+                        "leaving": 0
+                    },
+                    "rs": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709250311,
+                        "leaving": 0
+                    },
+                    "sg": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709139262,
+                        "leaving": 0
+                    },
+                    "th": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709358849,
+                        "leaving": 0
+                    },
+                    "tr": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709353328,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1710764958,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709187079,
+                        "leaving": 0
+                    },
+                    "vn": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709784729,
+                        "leaving": 0
+                    },
+                    "za": {
+                        "link": "https://www.netflix.com/title/80158481/",
+                        "added": 1709180745,
+                        "leaving": 0
+                    }
+                }
+            }
+        },
+        {
+            "id": 8924,
+            "imdbID": "tt0068768",
+            "tmdbID": "14881",
+            "imdbRating": 64,
+            "imdbVoteCount": 21138,
+            "backdropPath": "/fLDHD3FdISvttfyIgFSaH7tEc8O.jpg",
+            "originalTitle": "Joe Kidd",
+            "genres": [
+                37
+            ],
+            "countries": [
+                "US"
+            ],
+            "year": 1972,
+            "runtime": 88,
+            "cast": [
+                "Clint Eastwood",
+                "Robert Duvall",
+                "John Saxon",
+                "Don Stroud",
+                "Stella Garcia",
+                "James Wainwright",
+                "Paul Koslo"
+            ],
+            "significants": [
+                "John Sturges"
+            ],
+            "title": "Joe Kidd",
+            "overview": "A band of Mexicans find their U. S. land claims denied and all the records destroyed in a courthouse fire. Their leader, Louis Chama, encourages them to use force to regain their land. A wealthy landowner wanting the same decides to hire a gang of killers with Joe Kidd to track Chama.",
+            "tagline": "If you're looking for trouble...he's Joe Kidd.",
+            "video": "GYSXhkquDYE",
+            "posterPath": "/gwVL6a6ZPijqM5hB4n2Ztg1akWY.jpg",
+            "age": 12,
+            "streamingInfo": {
+                "apple": {},
+                "hulu": {},
+                "netflix": {
+                    "az": {
+                        "link": "https://www.netflix.com/title/654901/",
+                        "added": 1707116755,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/654901/",
+                        "added": 1705181154,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/654901/",
+                        "added": 1706767695,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/654901/",
+                        "added": 1709317341,
+                        "leaving": 0
+                    }
+                },
+                "prime": {},
+                "starz": {
+                    "us": {
+                        "link": "https://www.starz.com/us/en/movies/41598",
+                        "added": 1712064577,
+                        "leaving": 32503697999
+                    }
+                }
+            }
+        },
+        {
+            "id": 113515,
+            "imdbID": "tt0068562",
+            "tmdbID": "102812",
+            "imdbRating": 64,
+            "imdbVoteCount": 472,
+            "backdropPath": "/wjJfAMyVFCes4k9HG3sQeOzftGp.jpg",
+            "originalTitle": "FTA",
+            "genres": [
+                99,
+                35,
+                10402
+            ],
+            "countries": [
+                "US"
+            ],
+            "year": 1972,
+            "runtime": 97,
+            "cast": [
+                "Jane Fonda",
+                "Donald Sutherland",
+                "Pamela Donegan",
+                "Len Chandler",
+                "Michael Alaimo",
+                "Holly Near",
+                "Paul Mooney"
+            ],
+            "significants": [
+                "Francine Parker"
+            ],
+            "title": "FTA",
+            "overview": "A documentary about a political troupe headed by actors Jane Fonda and Donald Sutherland which traveled to towns near military bases in the US in the early 1970s. The group put on shows called \"F.T.A.\", which stood for \"F**k the Army\", and was aimed at convincing soldiers to voice their opposition to the Vietnam War, which was raging at the time. Various singers, actors and other entertainers performed antiwar songs and skits during the show.",
+            "tagline": "The Show The Pentagon Couldn't Stop!",
+            "video": "kDD6boYxMa8",
+            "posterPath": "/ri65QOD86us0w8mBCl9kufTB80h.jpg",
+            "age": 17,
+            "streamingInfo": {
+                "apple": {},
+                "netflix": {
+                    "az": {
+                        "link": "https://www.netflix.com/title/70112759/",
+                        "added": 1709658601,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/70112759/",
+                        "added": 1705259655,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/70112759/",
+                        "added": 1706697226,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/70112759/",
+                        "added": 1709320915,
+                        "leaving": 0
+                    }
+                }
+            }
+        },
+        {
+            "id": 3708,
+            "imdbID": "tt0070735",
+            "tmdbID": "9277",
+            "imdbRating": 83,
+            "imdbVoteCount": 279274,
+            "backdropPath": "/tQcbNXoYU7zy1dz96npOlbDgtbq.jpg",
+            "originalTitle": "The Sting",
+            "genres": [
+                35,
+                80,
+                18
+            ],
+            "countries": [
+                "US"
+            ],
+            "year": 1973,
+            "runtime": 129,
+            "cast": [
+                "Paul Newman",
+                "Robert Redford",
+                "Robert Shaw",
+                "Charles Durning",
+                "Ray Walston",
+                "Eileen Brennan",
+                "Harold Gould"
+            ],
+            "significants": [
+                "George Roy Hill"
+            ],
+            "title": "The Sting",
+            "overview": "A novice con man teams up with an acknowledged master to avenge the murder of a mutual friend by pulling off the ultimate big con and swindling a fortune from a big-time mobster.",
+            "tagline": "...all it takes is a little confidence.",
+            "video": "_nAIb_J9T5M",
+            "posterPath": "/ckmYng37zey8INYf6d10cVgIG93.jpg",
+            "age": 10,
+            "streamingInfo": {
+                "apple": {},
+                "crave": {},
+                "netflix": {
+                    "az": {
+                        "link": "https://www.netflix.com/title/1001011/",
+                        "added": 1707117042,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/1001011/",
+                        "added": 1705304812,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/1001011/",
+                        "added": 1706705208,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/1001011/",
+                        "added": 1709208348,
+                        "leaving": 0
+                    }
+                },
+                "now": {},
+                "prime": {}
+            }
+        },
+        {
+            "id": 3719,
+            "imdbID": "tt0068699",
+            "tmdbID": "11901",
+            "imdbRating": 74,
+            "imdbVoteCount": 64355,
+            "backdropPath": "/hUw44d6NAFd48xSCLkYb6GluXa7.jpg",
+            "originalTitle": "High Plains Drifter",
+            "genres": [
+                18,
+                9648,
+                37
+            ],
+            "countries": [
+                "US"
+            ],
+            "year": 1973,
+            "runtime": 105,
+            "cast": [
+                "Clint Eastwood",
+                "Verna Bloom",
+                "Marianna Hill",
+                "Mitchell Ryan",
+                "Jack Ging",
+                "Stefan Gierasch",
+                "Ted Hartley"
+            ],
+            "significants": [
+                "Clint Eastwood"
+            ],
+            "title": "High Plains Drifter",
+            "overview": "A gunfighting stranger comes to the small settlement of Lago. After gunning down three gunmen who tried to kill him, the townsfolk decide to hire the Stranger to hold off three outlaws who are on their way.",
+            "tagline": "They'd never forget the day he drifted into town.",
+            "video": "be2mIVxDrr8",
+            "posterPath": "/AjkJCFkqanK1OZqiHxc6Kl2wPQO.jpg",
+            "age": 15,
+            "streamingInfo": {
+                "netflix": {
+                    "az": {
+                        "link": "https://www.netflix.com/title/589340/",
+                        "added": 1707114141,
+                        "leaving": 0
+                    },
+                    "ca": {
+                        "link": "https://www.netflix.com/title/589340/",
+                        "added": 1711839342,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/589340/",
+                        "added": 1705169129,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/589340/",
+                        "added": 1706666030,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/589340/",
+                        "added": 1709239822,
+                        "leaving": 0
+                    }
+                },
+                "now": {},
+                "prime": {}
+            }
+        },
+        {
+            "id": 13248,
+            "imdbID": "tt0069865",
+            "tmdbID": "27331",
+            "imdbRating": 75,
+            "imdbVoteCount": 14068,
+            "backdropPath": "/syGkoSIvisT9ck0dNb41IPhY5wG.jpg",
+            "originalTitle": "Charley Varrick",
+            "genres": [
+                80,
+                53
+            ],
+            "countries": [
+                "US"
+            ],
+            "year": 1973,
+            "runtime": 111,
+            "cast": [
+                "Walter Matthau",
+                "Joe Don Baker",
+                "Felicia Farr",
+                "Andrew Robinson",
+                "Sheree North",
+                "Norman Fell",
+                "Benson Fong"
+            ],
+            "significants": [
+                "Don Siegel"
+            ],
+            "title": "Charley Varrick",
+            "overview": "Charley Varrick robs a bank in a small town with his friends, but instead of obtaining a small amount of money, they discover they stole a very large amount of money belonging to the mob. Charley must now come up with a plan to not only evade the police but the mob as well.",
+            "tagline": "When he runs out of dumb luck, he always has genius to fall back on!",
+            "video": "vTaHRkAdBAw",
+            "posterPath": "/qPG2VPNA72he1Kczm2yFmslPNZN.jpg",
+            "age": 14,
+            "streamingInfo": {
+                "netflix": {
+                    "az": {
+                        "link": "https://www.netflix.com/title/70018365/",
+                        "added": 1707116724,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/70018365/",
+                        "added": 1705136436,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/70018365/",
+                        "added": 1706685783,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/70018365/",
+                        "added": 1709180555,
+                        "leaving": 0
+                    }
+                },
+                "now": {},
+                "prime": {}
+            }
+        },
+        {
+            "id": 112859,
+            "imdbID": "tt0230412",
+            "tmdbID": "464441",
+            "imdbRating": 51,
+            "imdbVoteCount": 56,
+            "backdropPath": "",
+            "originalTitle": "Khoon Khoon",
+            "genres": [
+                80,
+                9648,
+                53
+            ],
+            "countries": [
+                "IN"
+            ],
+            "year": 1973,
+            "runtime": 131,
+            "cast": [
+                "Mahendra Sandhu",
+                "Danny Denzongpa",
+                "Jagdeep",
+                "Faryal",
+                "Padma Khanna",
+                "Asit Sen",
+                "Karan Dewan"
+            ],
+            "significants": [
+                "Mohammed Hussain"
+            ],
+            "title": "Khoon Khoon",
+            "overview": "As a crazed killer blazes a trail of blood through an anxious city, a hardened cop aims to take him down by any means in this remake of Dirty Harry.",
+            "tagline": "",
+            "video": "",
+            "posterPath": "/9SpYNVw9cp3oYYX3FjUD6pB4iuu.jpg",
+            "age": 17,
+            "streamingInfo": {
+                "netflix": {
+                    "ae": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709260813,
+                        "leaving": 0
+                    },
+                    "ar": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709322123,
+                        "leaving": 0
+                    },
+                    "au": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709147407,
+                        "leaving": 0
+                    },
+                    "az": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709280825,
+                        "leaving": 0
+                    },
+                    "br": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709215390,
+                        "leaving": 0
+                    },
+                    "ca": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709211839,
+                        "leaving": 0
+                    },
+                    "cl": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709221490,
+                        "leaving": 0
+                    },
+                    "co": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709118550,
+                        "leaving": 0
+                    },
+                    "ec": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709289148,
+                        "leaving": 0
+                    },
+                    "hk": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709190606,
+                        "leaving": 0
+                    },
+                    "id": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709173239,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709262724,
+                        "leaving": 0
+                    },
+                    "in": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709354391,
+                        "leaving": 0
+                    },
+                    "jp": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709172553,
+                        "leaving": 0
+                    },
+                    "md": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709166268,
+                        "leaving": 0
+                    },
+                    "mk": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709180178,
+                        "leaving": 0
+                    },
+                    "mx": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709120747,
+                        "leaving": 0
+                    },
+                    "my": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709145500,
+                        "leaving": 0
+                    },
+                    "nz": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709223403,
+                        "leaving": 0
+                    },
+                    "pa": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709218441,
+                        "leaving": 0
+                    },
+                    "pe": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709126614,
+                        "leaving": 0
+                    },
+                    "ph": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709142927,
+                        "leaving": 0
+                    },
+                    "rs": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709155173,
+                        "leaving": 0
+                    },
+                    "sg": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709458697,
+                        "leaving": 0
+                    },
+                    "th": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709175692,
+                        "leaving": 0
+                    },
+                    "tr": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709310824,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709327929,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709331903,
+                        "leaving": 0
+                    },
+                    "vn": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1711302338,
+                        "leaving": 0
+                    },
+                    "za": {
+                        "link": "https://www.netflix.com/title/80158480/",
+                        "added": 1709140514,
+                        "leaving": 0
+                    }
+                }
+            }
+        },
+        {
+            "id": 3699,
+            "imdbID": "tt0071315",
+            "tmdbID": "829",
+            "imdbRating": 81,
+            "imdbVoteCount": 349038,
+            "backdropPath": "/bsoAg22remHKL5O0xJH0m9DX6Pu.jpg",
+            "originalTitle": "Chinatown",
+            "genres": [
+                18,
+                9648,
+                53
+            ],
+            "countries": [
+                "US"
+            ],
+            "year": 1974,
+            "runtime": 130,
+            "cast": [
+                "Jack Nicholson",
+                "Faye Dunaway",
+                "John Huston",
+                "Perry Lopez",
+                "John Hillerman",
+                "Diane Ladd",
+                "Roman Polanski"
+            ],
+            "significants": [
+                "Roman Polanski"
+            ],
+            "title": "Chinatown",
+            "overview": "Private eye Jake Gittes lives off of the murky moral climate of sunbaked, pre-World War II Southern California. Hired by a beautiful socialite to investigate her husband's extra-marital affair, Gittes is swept into a maelstrom of double dealings and deadly deceits, uncovering a web of personal and political scandals that come crashing together.",
+            "tagline": "You get tough. You get tender. You get close to each other. Maybe you even get close to the truth.",
+            "video": "T37QkBc4IGY",
+            "posterPath": "/mQJz8J4naOA7RmCtypTPjgXZIMY.jpg",
+            "age": 14,
+            "streamingInfo": {
+                "apple": {},
+                "hbo": {},
+                "hulu": {},
+                "netflix": {
+                    "az": {
+                        "link": "https://www.netflix.com/title/374030/",
+                        "added": 1707114255,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/374030/",
+                        "added": 1705204989,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/374030/",
+                        "added": 1706591852,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/374030/",
+                        "added": 1709288586,
+                        "leaving": 0
+                    }
+                },
+                "now": {
+                    "gb": {
+                        "link": "https://www.nowtv.com/watch/chinatown-1974/A5EK6sKrAaycnGBJ55CiW",
+                        "added": 1675380039,
+                        "leaving": 1738367999
+                    },
+                    "ie": {
+                        "link": "https://www.nowtv.com/ie/online/chinatown-1974/A5EK6sKrAaycnGBJ55CiW",
+                        "added": 1675365255,
+                        "leaving": 1738367999
+                    }
+                },
+                "paramount": {
+                    "at": {
+                        "link": "https://www.paramountplus.com/movies/video/8WE67fVQITta1zOhj5jiOofOEk_OEu0_/",
+                        "added": 1709102622,
+                        "leaving": 1733029200
+                    },
+                    "au": {
+                        "link": "https://www.paramountplus.com/movies/video/8WE67fVQITta1zOhj5jiOofOEk_OEu0_/",
+                        "added": 1709108283,
+                        "leaving": 1725080400
+                    },
+                    "ch": {
+                        "link": "https://www.paramountplus.com/movies/video/8WE67fVQITta1zOhj5jiOofOEk_OEu0_/",
+                        "added": 1709101083,
+                        "leaving": 1733029200
+                    },
+                    "de": {
+                        "link": "https://www.paramountplus.com/movies/video/8WE67fVQITta1zOhj5jiOofOEk_OEu0_/",
+                        "added": 1709086774,
+                        "leaving": 1733029200
+                    },
+                    "fr": {
+                        "link": "https://www.paramountplus.com/movies/video/8WE67fVQITta1zOhj5jiOofOEk_OEu0_/",
+                        "added": 1709110941,
+                        "leaving": 1733029200
+                    },
+                    "gb": {
+                        "link": "https://www.paramountplus.com/movies/video/8WE67fVQITta1zOhj5jiOofOEk_OEu0_/",
+                        "added": 1709098464,
+                        "leaving": 1733029200
+                    },
+                    "ie": {
+                        "link": "https://www.paramountplus.com/movies/video/8WE67fVQITta1zOhj5jiOofOEk_OEu0_/",
+                        "added": 1709101431,
+                        "leaving": 1733029200
+                    },
+                    "it": {
+                        "link": "https://www.paramountplus.com/movies/video/8WE67fVQITta1zOhj5jiOofOEk_OEu0_/",
+                        "added": 1709091625,
+                        "leaving": 1733029200
+                    },
+                    "us": {
+                        "link": "https://www.paramountplus.com/movies/video/OeheQxGM7MyUUkDHMFE54UejQaErBfrC/",
+                        "added": 1712059008,
+                        "leaving": 1722488400
+                    }
+                },
+                "prime": {},
+                "stan": {
+                    "au": {
+                        "link": "https://www.stan.com.au/watch/chinatown-1974",
+                        "added": 1709070348,
+                        "leaving": 1741870740
+                    }
+                }
+            }
+        },
+        {
+            "id": 3702,
+            "imdbID": "tt0071230",
+            "tmdbID": "11072",
+            "imdbRating": 77,
+            "imdbVoteCount": 152115,
+            "backdropPath": "/rNux3fw0jC9wOi3oIxJH2X1Sbap.jpg",
+            "originalTitle": "Blazing Saddles",
+            "genres": [
+                35,
+                37
+            ],
+            "countries": [
+                "US"
+            ],
+            "year": 1974,
+            "runtime": 93,
+            "cast": [
+                "Cleavon Little",
+                "Gene Wilder",
+                "Slim Pickens",
+                "Harvey Korman",
+                "Madeline Kahn",
+                "Mel Brooks",
+                "Burton Gilliam"
+            ],
+            "significants": [
+                "Mel Brooks"
+            ],
+            "title": "Blazing Saddles",
+            "overview": "A town—where everyone seems to be named Johnson—stands in the way of the railroad. In order to grab their land, robber baron Hedley Lamarr sends his henchmen to make life in the town unbearable. After the sheriff is killed, the town demands a new sheriff from the Governor, so Hedley convinces him to send the town the first black sheriff in the west.",
+            "tagline": "...or never give a saga an even break!",
+            "video": "bsP7QaMlzQk",
+            "posterPath": "/vNw1gOEDdYTDeNMuuq8OmiEHrfH.jpg",
+            "age": 12,
+            "streamingInfo": {
+                "apple": {},
+                "hbo": {},
+                "hulu": {},
+                "iplayer": {},
+                "netflix": {
+                    "ae": {
+                        "link": "https://www.netflix.com/title/70000380/",
+                        "added": 1709474660,
+                        "leaving": 0
+                    },
+                    "az": {
+                        "link": "https://www.netflix.com/title/70000380/",
+                        "added": 1707114776,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/70000380/",
+                        "added": 1705310494,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/70000380/",
+                        "added": 1706629179,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/70000380/",
+                        "added": 1709285719,
+                        "leaving": 0
+                    }
+                },
+                "now": {},
+                "paramount": {},
+                "prime": {}
+            }
+        },
+        {
+            "id": 3704,
+            "imdbID": "tt0071360",
+            "tmdbID": "592",
+            "imdbRating": 77,
+            "imdbVoteCount": 121502,
+            "backdropPath": "/fVJZYpzVTKo0vXmar9NnRMV0Qcn.jpg",
+            "originalTitle": "The Conversation",
+            "genres": [
+                18,
+                9648,
+                53
+            ],
+            "countries": [
+                "US"
+            ],
+            "year": 1974,
+            "runtime": 113,
+            "cast": [
+                "Gene Hackman",
+                "John Cazale",
+                "Allen Garfield",
+                "Frederic Forrest",
+                "Cindy Williams",
+                "Michael Higgins",
+                "Elizabeth MacRae"
+            ],
+            "significants": [
+                "Francis Ford Coppola"
+            ],
+            "title": "The Conversation",
+            "overview": "Surveillance expert Harry Caul is hired by a mysterious client's brusque aide to tail a young couple. Tracking the pair through San Francisco's Union Square, Caul and his associate Stan manage to record a cryptic conversation between them. Tormented by memories of a previous case that ended badly, Caul becomes obsessed with the resulting tape, trying to determine if the couple is in danger.",
+            "tagline": "Harry Caul is an invader of privacy. The best in the business. He can record any conversation between two people anywhere. So far, three people are dead because of him.",
+            "video": "x-_LxiRETWA",
+            "posterPath": "/leZtiWJXHEp2x7jVW7djhcSboSJ.jpg",
+            "age": 12,
+            "streamingInfo": {
+                "apple": {},
+                "hbo": {},
+                "hulu": {},
+                "iplayer": {},
+                "netflix": {
+                    "az": {
+                        "link": "https://www.netflix.com/title/60003586/",
+                        "added": 1707114300,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/60003586/",
+                        "added": 1705313511,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/60003586/",
+                        "added": 1706732200,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/60003586/",
+                        "added": 1709260854,
+                        "leaving": 0
+                    }
+                },
+                "now": {},
+                "paramount": {
+                    "at": {
+                        "link": "https://www.paramountplus.com/movies/video/2w8nBDYW_OSmu9I0H8B586Hy4TIbdWAx/",
+                        "added": 1709092084,
+                        "leaving": 1735621200
+                    },
+                    "au": {
+                        "link": "https://www.paramountplus.com/movies/video/2w8nBDYW_OSmu9I0H8B586Hy4TIbdWAx/",
+                        "added": 1709093177,
+                        "leaving": 1725080400
+                    },
+                    "ch": {
+                        "link": "https://www.paramountplus.com/movies/video/2w8nBDYW_OSmu9I0H8B586Hy4TIbdWAx/",
+                        "added": 1709103199,
+                        "leaving": 1735621200
+                    },
+                    "de": {
+                        "link": "https://www.paramountplus.com/movies/video/2w8nBDYW_OSmu9I0H8B586Hy4TIbdWAx/",
+                        "added": 1709100347,
+                        "leaving": 1735621200
+                    },
+                    "fr": {
+                        "link": "https://www.paramountplus.com/movies/video/2w8nBDYW_OSmu9I0H8B586Hy4TIbdWAx/",
+                        "added": 1709077453,
+                        "leaving": 1735621200
+                    },
+                    "gb": {
+                        "link": "https://www.paramountplus.com/movies/video/2w8nBDYW_OSmu9I0H8B586Hy4TIbdWAx/",
+                        "added": 1709091133,
+                        "leaving": 1735621200
+                    },
+                    "ie": {
+                        "link": "https://www.paramountplus.com/movies/video/2w8nBDYW_OSmu9I0H8B586Hy4TIbdWAx/",
+                        "added": 1709076954,
+                        "leaving": 1735621200
+                    },
+                    "it": {
+                        "link": "https://www.paramountplus.com/movies/video/2w8nBDYW_OSmu9I0H8B586Hy4TIbdWAx/",
+                        "added": 1709082960,
+                        "leaving": 1735621200
+                    }
+                },
+                "prime": {}
+            }
+        },
+        {
+            "id": 5848,
+            "imdbID": "tt0071402",
+            "tmdbID": "13939",
+            "imdbRating": 69,
+            "imdbVoteCount": 43935,
+            "backdropPath": "/AiNPLAT4ltKanMm0IKjbGG39SE0.jpg",
+            "originalTitle": "Death Wish",
+            "genres": [
+                28,
+                80,
+                18
+            ],
+            "countries": [
+                "US"
+            ],
+            "year": 1974,
+            "runtime": 93,
+            "cast": [
+                "Charles Bronson",
+                "Hope Lange",
+                "Vincent Gardenia",
+                "Steven Keats",
+                "William Redfield",
+                "Stuart Margolin",
+                "Stephen Elliott"
+            ],
+            "significants": [
+                "Michael Winner"
+            ],
+            "title": "Death Wish",
+            "overview": "After his wife is murdered by street punks, a pacifistic New York City architect becomes a one-man vigilante squad, prowling the streets for would-be muggers after dark.",
+            "tagline": "Vigilante, city style — judge, jury, and executioner.",
+            "video": "p1NNnTkLBlc",
+            "posterPath": "/n0MJPBLSCtt7DBYZGFsOfQkZCWt.jpg",
+            "age": 17,
+            "streamingInfo": {
+                "hulu": {},
+                "netflix": {
+                    "az": {
+                        "link": "https://www.netflix.com/title/60004080/",
+                        "added": 1707113477,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/60004080/",
+                        "added": 1705181505,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/60004080/",
+                        "added": 1706617808,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/60004080/",
+                        "added": 1709340563,
+                        "leaving": 0
+                    }
+                },
+                "paramount": {},
+                "prime": {}
+            }
+        },
+        {
+            "id": 5851,
+            "imdbID": "tt0071577",
+            "tmdbID": "11034",
+            "imdbRating": 64,
+            "imdbVoteCount": 26808,
+            "backdropPath": "/m7wY4OyJ6Q7o89lgDgt0GKGxaJz.jpg",
+            "originalTitle": "The Great Gatsby",
+            "genres": [
+                18,
+                10749
+            ],
+            "countries": [
+                "US"
+            ],
+            "year": 1974,
+            "runtime": 144,
+            "cast": [
+                "Robert Redford",
+                "Mia Farrow",
+                "Bruce Dern",
+                "Karen Black",
+                "Scott Wilson",
+                "Sam Waterston",
+                "Lois Chiles"
+            ],
+            "significants": [
+                "Jack Clayton"
+            ],
+            "title": "The Great Gatsby",
+            "overview": "Nick Carraway, a young Midwesterner now living on Long Island, finds himself fascinated by the mysterious past and lavish lifestyle of his neighbor, the nouveau riche Jay Gatsby. He is drawn into Gatsby's circle, becoming a witness to obsession and tragedy.",
+            "tagline": "Gone is the romance that was so divine",
+            "video": "ObO_2R_aDuI",
+            "posterPath": "/zCjwyhfDTFgunVVzBoEFzafpjbV.jpg",
+            "age": 10,
+            "streamingInfo": {
+                "apple": {},
+                "hulu": {},
+                "netflix": {
+                    "au": {
+                        "link": "https://www.netflix.com/title/60020335/",
+                        "added": 1706746468,
+                        "leaving": 0
+                    },
+                    "az": {
+                        "link": "https://www.netflix.com/title/60020335/",
+                        "added": 1709718414,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/60020335/",
+                        "added": 1705145130,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/60020335/",
+                        "added": 1706667660,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/60020335/",
+                        "added": 1709213857,
+                        "leaving": 0
+                    }
+                },
+                "now": {
+                    "gb": {
+                        "link": "https://www.nowtv.com/watch/the-great-gatsby-1974/A5EK6sKrAaydPfKU1u77L",
+                        "added": 1709300229,
+                        "leaving": 1725145199
+                    },
+                    "ie": {
+                        "link": "https://www.nowtv.com/ie/online/the-great-gatsby-1974/A5EK5E17Hwqzs4sTEhWJU",
+                        "added": 1709294848,
+                        "leaving": 1725145199
+                    }
+                },
+                "paramount": {
+                    "at": {
+                        "link": "https://www.paramountplus.com/movies/video/7DienYmDcBOiRH8lR_aHc03J0JEJL4Ro/",
+                        "added": 1709072451,
+                        "leaving": 1733029200
+                    },
+                    "ch": {
+                        "link": "https://www.paramountplus.com/movies/video/7DienYmDcBOiRH8lR_aHc03J0JEJL4Ro/",
+                        "added": 1709063591,
+                        "leaving": 1733029200
+                    },
+                    "de": {
+                        "link": "https://www.paramountplus.com/movies/video/7DienYmDcBOiRH8lR_aHc03J0JEJL4Ro/",
+                        "added": 1709097806,
+                        "leaving": 1733029200
+                    },
+                    "fr": {
+                        "link": "https://www.paramountplus.com/movies/video/7DienYmDcBOiRH8lR_aHc03J0JEJL4Ro/",
+                        "added": 1709056336,
+                        "leaving": 1733029200
+                    },
+                    "gb": {
+                        "link": "https://www.paramountplus.com/movies/video/7DienYmDcBOiRH8lR_aHc03J0JEJL4Ro/",
+                        "added": 1709075000,
+                        "leaving": 1733029200
+                    },
+                    "ie": {
+                        "link": "https://www.paramountplus.com/movies/video/7DienYmDcBOiRH8lR_aHc03J0JEJL4Ro/",
+                        "added": 1709113035,
+                        "leaving": 1733029200
+                    },
+                    "it": {
+                        "link": "https://www.paramountplus.com/movies/video/7DienYmDcBOiRH8lR_aHc03J0JEJL4Ro/",
+                        "added": 1709056485,
+                        "leaving": 1733029200
+                    }
+                },
+                "prime": {}
+            }
+        },
+        {
+            "id": 8890,
+            "imdbID": "tt0071115",
+            "tmdbID": "16153",
+            "imdbRating": 73,
+            "imdbVoteCount": 27383,
+            "backdropPath": "/5AibuYyzAlJesXvZVjW4vFeqKpj.jpg",
+            "originalTitle": "Alice Doesn't Live Here Anymore",
+            "genres": [
+                18,
+                10749
+            ],
+            "countries": [
+                "US"
+            ],
+            "year": 1974,
+            "runtime": 112,
+            "cast": [
+                "Ellen Burstyn",
+                "Kris Kristofferson",
+                "Alfred Lutter",
+                "Harvey Keitel",
+                "Diane Ladd",
+                "Lelia Goldoni",
+                "Billy Green Bush"
+            ],
+            "significants": [
+                "Martin Scorsese"
+            ],
+            "title": "Alice Doesn't Live Here Anymore",
+            "overview": "After her husband dies, Alice and her son, Tommy, leave their small New Mexico town for California, where Alice hopes to make a new life for herself as a singer. Money problems force them to settle in Arizona instead, where Alice takes a job as waitress in a small diner.",
+            "tagline": "A movie for everyone who has ever dreamed of a second chance.",
+            "video": "H8jV98slav8",
+            "posterPath": "/A99yzz1W3NCG6zR2HXSwn2kWlse.jpg",
+            "age": 13,
+            "streamingInfo": {
+                "hbo": {},
+                "netflix": {
+                    "az": {
+                        "link": "https://www.netflix.com/title/60010069/",
+                        "added": 1707117217,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/60010069/",
+                        "added": 1705255141,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/60010069/",
+                        "added": 1706705308,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/60010069/",
+                        "added": 1709303633,
+                        "leaving": 0
+                    }
+                },
+                "prime": {}
+            }
+        },
+        {
+            "id": 8902,
+            "imdbID": "tt0071524",
+            "tmdbID": "987",
+            "imdbRating": 73,
+            "imdbVoteCount": 15258,
+            "backdropPath": "/k0YZgwDZtI9M80GKvAAbGMweAEH.jpg",
+            "originalTitle": "The Front Page",
+            "genres": [
+                35
+            ],
+            "countries": [
+                "US"
+            ],
+            "year": 1974,
+            "runtime": 105,
+            "cast": [
+                "Jack Lemmon",
+                "Walter Matthau",
+                "Susan Sarandon",
+                "Vincent Gardenia",
+                "David Wayne",
+                "Allen Garfield",
+                "Austin Pendleton"
+            ],
+            "significants": [
+                "Billy Wilder"
+            ],
+            "title": "The Front Page",
+            "overview": "A journalist suffering from burn-out wants to finally say goodbye to his office – but his boss doesn’t like the idea one bit.",
+            "tagline": "It's the hottest story since the Chicago fire...and they're sitting on it.",
+            "video": "Os4KgsvJ9Ys",
+            "posterPath": "/mHrHEReLzo3czJ1rX0O6iWLWS48.jpg",
+            "age": 8,
+            "streamingInfo": {
+                "apple": {},
+                "netflix": {
+                    "az": {
+                        "link": "https://www.netflix.com/title/526867/",
+                        "added": 1707114552,
+                        "leaving": 0
+                    },
+                    "il": {
+                        "link": "https://www.netflix.com/title/526867/",
+                        "added": 1705259601,
+                        "leaving": 0
+                    },
+                    "ua": {
+                        "link": "https://www.netflix.com/title/526867/",
+                        "added": 1706655849,
+                        "leaving": 0
+                    },
+                    "us": {
+                        "link": "https://www.netflix.com/title/526867/",
+                        "added": 1709146749,
+                        "leaving": 0
+                    }
+                },
+                "now": {
+                    "it": {
+                        "link": "https://www.nowtv.it/watch/prima-pagina-1974/R_165893_HD",
+                        "added": 1683141877,
+                        "leaving": 1735685999
+                    }
+                },
+                "prime": {}
+            }
+        }
+    ],
+    "total_pages": 159
+}
