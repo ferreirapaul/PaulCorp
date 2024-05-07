@@ -1,3 +1,13 @@
+export interface MovieRes {
+  total : number;
+  results : MovieList[];
+}
+
+export interface OneMovieRes {
+  result : number;
+  movie : MovieList;
+}
+
 export interface MovieList {
     id: number;
     title: string;

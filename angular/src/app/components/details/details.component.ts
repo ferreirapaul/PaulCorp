@@ -60,8 +60,9 @@ export class DetailsComponent {
   constructor() {
     const type = this.route.snapshot.params['type'];
     const id = parseInt(this.route.snapshot.params['id'], 10);
+    console.log(id);
     this.movieService.getById(type, id).then(x => {
-      this.movieList = x;
+      this.movieList = x.movie;
     });
   }
 

@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { MovieList } from '../interfaces/movielist';
+import { MovieList, MovieRes, OneMovieRes } from '../interfaces/movielist';
 import { querryRes } from '../interfaces/querryres';
 
 
@@ -7,8 +7,7 @@ import { querryRes } from '../interfaces/querryres';
   providedIn: 'root'
 })
 export class MoviesService {
-  urlR = 'http://localhost:3000/results';
-  urlM = 'http://localhost:3001'
+  url = 'http://localhost:8083';
 
   res : querryRes= {
     results: [
@@ -18,18 +17,21 @@ export class MoviesService {
 
   }
 
-  async getAllMovies(): Promise<MovieList[]> {
-    const data = await fetch(this.urlR);
-    return await data.json() ?? [];
+  async getAllMovies(): Promise<MovieRes> {
+    const data = await fetch(`${this.url}/page`);
+    let res = await (await data).json();
+    return res;
   }
 
-  async getById(type: string, id: number): Promise<MovieList> {
-    //const data = await fetch(`${this.urlM}/${type}/${id}/en`);
-    const data = await fetch(`${this.urlM}/${type}`);
-    return await data.json() ?? {};
+  async getById(type: string, id: number): Promise<OneMovieRes> {
+    const data = await fetch(`${this.url}/infos/${type}/${id}`);
+    let res = await (await data).json();
+    return res;
   }
 
   async getQuerryResult(querry: string): Promise<querryRes> {
-    return this.res;
+    const data = await fetch(`${this.url}/query/${querry}`);
+    let res = await (await data).json();
+    return res;
   }
 }

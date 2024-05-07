@@ -1,6 +1,6 @@
 import { Component, inject } from '@angular/core';
 import { HousingLocationComponent } from '../movie-diplay/movie-display.component';
-import { MovieList } from '../../interfaces/movielist';
+import { MovieList, MovieRes, OneMovieRes } from '../../interfaces/movielist';
 import { MoviesService } from '../../services/movies.service';
 import { CommonModule } from '@angular/common';
 import { querryRes } from '../../interfaces/querryres';
@@ -36,9 +36,9 @@ export class HomeComponent {
   filteredList: MovieList[] = [];
 
   constructor() {
-    this.movieService.getAllMovies().then((res: MovieList[]) => {
-      this.movieList = res;
-      this.filteredList = res;
+    this.movieService.getAllMovies().then((res: MovieRes) => {
+      this.movieList = res.results;
+      this.filteredList = res.results;
     });
   }
 
@@ -52,11 +52,13 @@ export class HomeComponent {
       for (let i in res.results)
       {
           i = res.results[i]
-          if (i.charAt(0) == 'm')
+          if (i.includes("movie"))
           {
-            console.log('a');
-            this.movieService.getById('movie', parseInt(i.slice(5))).then((j : MovieList) => {
-                this.filteredList.push(j);
+            this.movieService.getById('movie', parseInt(i.slice(5))).then((j : OneMovieRes) => {
+                if(j.movie)
+                {
+                  this.filteredList.push(j.movie);
+                }
             })
           }
       }
