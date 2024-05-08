@@ -2,9 +2,7 @@ package fr.paul.corp.rest;
 
 import com.mashape.unirest.http.JsonNode;
 import fr.paul.corp.domain.service.Service;
-import org.json.JSONObject;
 
-import javax.json.JsonObject;
 import javax.transaction.Transactional;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
