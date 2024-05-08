@@ -55,12 +55,11 @@ export class DetailsComponent {
     streamingInfo: {}
   };
   objectKeys = Object.keys;
-  wantedServices = ["netflix", "disney+", "prime", "paramount+", "ocs", "canal", "canal+"]
+  wantedServices = ["netflix", "disney", "prime", "paramount", "ocs", "canal", "canal+"]
 
   constructor() {
     const type = this.route.snapshot.params['type'];
     const id = parseInt(this.route.snapshot.params['id'], 10);
-    console.log(id);
     this.movieService.getById(type, id).then(x => {
       this.movieList = x.movie;
     });
