@@ -7,7 +7,7 @@ import { querryRes } from '../interfaces/querryres';
   providedIn: 'root'
 })
 export class MoviesService {
-  url = 'http://localhost:8083';
+  url = 'http://paulcorp.fr:49550';
 
   res : querryRes= {
     results: [

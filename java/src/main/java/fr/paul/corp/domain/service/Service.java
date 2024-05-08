@@ -25,7 +25,7 @@ public class Service {
     public JsonNode getPage()
     {
         try {
-            HttpResponse<JsonNode> json = Unirest.post("https://www.movieofthenight.com/api/catalog?userLanguage=en&services=netflix&country=us&order_by=imdb_rating&desc=false&page=1&type=movie")
+            HttpResponse<JsonNode> json = Unirest.post("https://www.movieofthenight.com/api/catalog?userLanguage=en&services=netflix&country=us&order_by=imdb_rating&desc=true&page=1&type=movie")
                     .body("{}")
                     .asJson();
             return json.getBody();
